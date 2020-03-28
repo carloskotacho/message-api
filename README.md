@@ -3,9 +3,6 @@
 <a href="https://github.com/carloskotacho/message-api/blob/master/LICENSE">
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=informational" height="21"/>
 </a>
-<a href="https://david-dm.org/carloskotacho/message-api" title="dependencies status">
-  <img src="https://david-dm.org/carloskotacho/message-api/status.svg" height="21"/>
-</a>
 <a href="https://github.com/carloskotacho/message-api/releases">
   <img src="https://img.shields.io/github/v/release/carloskotacho/message-api?colorB=58839b" height="21">    
 </a>
